@@ -34,7 +34,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="System" />
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Profile\Client\System.dll</HintPath>
+    </Reference>
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -98,6 +100,87 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Rain3.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WETHERBUBS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WEATHERBG1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WEATHERBG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WEATHERBGround.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WEATHER-MF-BG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BGagainlol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clearsky.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\night.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rain.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scattered clouds.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thunderstorm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thefinalbgPLZ.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\THE-BACK-GROUUUUUND.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WINDY.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CLOUDY.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RAINBG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SNOWYBG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\THUNDERSTORMBG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clou.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rai.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sno.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Thund.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\win.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SUNNY.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
